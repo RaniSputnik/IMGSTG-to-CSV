@@ -1,0 +1,8 @@
+{
+  "name": "imgstg-to-csv",
+  "description": "A small app that converts output from IMG to .csv format",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jsdom": "^3.1.2"
+  }
+}
